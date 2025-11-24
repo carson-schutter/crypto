@@ -478,8 +478,8 @@ from fuzzywuzzy import fuzz
 from sklearn.ensemble import RandomForestRegressor
 
 # Reddit API credentials
-reddit_client_id = 'vKj8rDxsVbevbSCp3Awndw'
-reddit_client_secret = 'zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw'
+reddit_client_id='XXX'
+reddit_client_secret='XXXX'
 reddit_user_agent = "SurfBot by u/Swimmer"
 
 # Coinbase Pro API credentials
@@ -716,8 +716,8 @@ from fuzzywuzzy import fuzz
 from sklearn.ensemble import RandomForestRegressor
 
 # Reddit API credentials
-reddit_client_id = 'vKj8rDxsVbevbSCp3Awndw'
-reddit_client_secret = 'zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw'
+reddit_client_id='XXX'
+reddit_client_secret='XXX'
 reddit_user_agent = "SurfBot by u/Swimmer"
 
 # Coinbase Pro API credentials
@@ -959,8 +959,8 @@ from fuzzywuzzy import fuzz
 from sklearn.ensemble import RandomForestRegressor
 
 # Reddit API credentials
-reddit_client_id = 'vKj8rDxsVbevbSCp3Awndw'
-reddit_client_secret = 'zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw'
+reddit_client_id='XXX'
+reddit_client_secret='XXX'
 reddit_user_agent = "SurfBot by u/Swimmer"
 
 # Coinbase Pro API credentials
@@ -1189,6 +1189,7 @@ run_bot()
 
 
 # In[ ]:
+
 
 
 
