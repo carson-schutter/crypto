@@ -94,8 +94,8 @@ def calculate_phrase_frequency_fuzzy(text_data, phrases):
 
 
 # Setup PRAW with your Reddit API credentials
-reddit = praw.Reddit(client_id="vKj8rDxsVbevbSCp3Awndw",
-                     client_secret="zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw",
+reddit = praw.Reddit(client_id="XXXX",
+                     client_secret="XXXX",
                      user_agent="SurfBot by u/Swimmer")
 
 # List of top 30 cryptocurrency subreddits
@@ -159,8 +159,8 @@ import praw
 from fuzzywuzzy import fuzz  # For fuzzy string matching
 
 # Setup PRAW with your Reddit API credentials
-reddit = praw.Reddit(client_id="vKj8rDxsVbevbSCp3Awndw",
-                     client_secret="zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw",
+reddit = praw.Reddit(client_id="XXXX",
+                     client_secret="XXXX",
                      user_agent="SurfBot by u/Swimmer")
 
 # List of top cryptocurrency subreddits
@@ -244,8 +244,8 @@ import praw
 from fuzzywuzzy import fuzz  # For fuzzy string matching
 
 # Setup PRAW with your Reddit API credentials
-reddit = praw.Reddit(client_id="vKj8rDxsVbevbSCp3Awndw",
-                     client_secret="zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw",
+reddit = praw.Reddit(client_id="XXXX",
+                     client_secret="XXXX",
                      user_agent="SurfBot by u/Swimmer")
 
 # List of top cryptocurrency subreddits
@@ -357,8 +357,8 @@ import json
 import os
 
 # Setup PRAW with your Reddit API credentials
-reddit = praw.Reddit(client_id="vKj8rDxsVbevbSCp3Awndw",
-                     client_secret="zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw",
+reddit = praw.Reddit(client_id="XXXX",
+                     client_secret="XXXX",
                      user_agent="SurfBot by u/Swimmer")
 
 # List of top cryptocurrency subreddits
@@ -483,8 +483,8 @@ reddit_client_secret = 'zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw'
 reddit_user_agent = "SurfBot by u/Swimmer"
 
 # Coinbase Pro API credentials
-coinbase_api_key = '7SUflBR0GURuAjZ7'
-coinbase_api_secret = '90Enya9AMLket9jzB6NHSMhAD5SJZxk8'
+coinbase_api_key="XXXX"
+coinbase_api_secret="XXXX"
 coinbase_api_passphrase = 'YOUR_API_PASSPHRASE'
 
 # Function to fetch spot price from Coinbase Pro
@@ -508,8 +508,8 @@ def fetch_bitcoin_hash_rate():
 # Function to analyze investor sentiment from Reddit
 def fetch_investor_sentiment():
     # Setup PRAW with your Reddit API credentials
-    reddit = praw.Reddit(client_id="vKj8rDxsVbevbSCp3Awndw",
-                         client_secret="zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw",
+    reddit = praw.Reddit(client_id="XXXX",
+                         client_secret="XXXX",
                          user_agent="SurfBot by u/Swimmer")
 
     # List of top cryptocurrency subreddits
@@ -721,8 +721,8 @@ reddit_client_secret = 'zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw'
 reddit_user_agent = "SurfBot by u/Swimmer"
 
 # Coinbase Pro API credentials
-coinbase_api_key = '7SUflBR0GURuAjZ7'
-coinbase_api_secret = '90Enya9AMLket9jzB6NHSMhAD5SJZxk8'
+coinbase_api_key="XXXX"
+coinbase_api_secret="XXXX"
 coinbase_api_passphrase = 'YOUR_API_PASSPHRASE'
 
 # Function to fetch spot price from Coinbase Pro
@@ -964,8 +964,8 @@ reddit_client_secret = 'zt7SBd-_h3CfAXRYiCfKVR3Xc_MZKw'
 reddit_user_agent = "SurfBot by u/Swimmer"
 
 # Coinbase Pro API credentials
-coinbase_api_key = '7SUflBR0GURuAjZ7'
-coinbase_api_secret = '90Enya9AMLket9jzB6NHSMhAD5SJZxk8'
+coinbase_api_key="XXXX"
+coinbase_api_secret="XXXX"
 coinbase_api_passphrase = 'YOUR_API_PASSPHRASE'
 
 # Function to fetch spot price from Coinbase Pro
@@ -1189,6 +1189,7 @@ run_bot()
 
 
 # In[ ]:
+
 
 
 
